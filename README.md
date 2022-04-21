@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Grobwolf
+- 👀 I’m interested in BA
+- 🌱 I’m currently learning Python
